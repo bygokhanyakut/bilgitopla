@@ -1,0 +1,3 @@
+           cd bilgitopla && chmod 777 * 
+           python3 setup.py
+           python bilgitopla.py
